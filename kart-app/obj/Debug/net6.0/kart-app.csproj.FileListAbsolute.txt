@@ -1,0 +1,15 @@
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\bin\Debug\net6.0\kart-app.exe
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\bin\Debug\net6.0\kart-app.deps.json
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\bin\Debug\net6.0\kart-app.runtimeconfig.json
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\bin\Debug\net6.0\kart-app.dll
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\bin\Debug\net6.0\kart-app.pdb
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\kart-app.csproj.AssemblyReference.cache
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\kart-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\kart-app.AssemblyInfoInputs.cache
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\kart-app.AssemblyInfo.cs
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\kart-app.csproj.CoreCompileInputs.cache
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\kart-app.dll
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\refint\kart-app.dll
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\kart-app.pdb
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\kart-app.genruntimeconfig.cache
+C:\Users\NBURNESS\source\repos\_learning\mob-karta\kart-app\obj\Debug\net6.0\ref\kart-app.dll
